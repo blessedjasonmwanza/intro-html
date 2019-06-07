@@ -38,7 +38,8 @@ h1 {
     background-position: 0 100%;
     transition: background-size 0.25s ease-in;        
 }
-
+a{
+    text-decoration:none;
 img {
     grid-row-start: 2;
     grid-column-start: 1;
@@ -115,4 +116,3 @@ a {
               transform: translate3d(-75%, 0%, 0);
     }
   }
- 
